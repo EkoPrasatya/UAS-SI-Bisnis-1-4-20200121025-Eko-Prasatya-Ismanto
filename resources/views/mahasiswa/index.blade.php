@@ -15,7 +15,7 @@
                 {{-- <a href="{{ route('admin.class_education.create') }}" class="btn btn-success">Tambah Data</a> --}}
 
                 <!-- Button trigger modal -->
-                <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#AddMahasiswaModal">
+                <button type="button" class="btn btn-success" data-toggle="modal" data-target="#AddMahasiswaModal">
                     Tambah Data
                 </button>
 
